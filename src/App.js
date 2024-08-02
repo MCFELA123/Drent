@@ -1,0 +1,14 @@
+import Header from './header';
+import Content from './content';
+import Footer from './footer';
+
+function App() {
+
+  return (
+    <div className="App">
+      <Content />
+    </div>
+  );
+}
+
+export default App;
